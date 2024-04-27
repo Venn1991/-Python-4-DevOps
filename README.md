@@ -24,7 +24,7 @@ Networking and Automation 🌐**
 
 **Exercise**: Develop a Python script to automate port scanning for a list of IP addresses.
 
-**Day 11-15: Databases and Integration 🗃️**
+Databases and Integration 🗃️**
 
 - Day 11: 📋 Database Basics - Understanding databases and relational models.
 - Day 12: 🐘 Connecting to PostgreSQL - Interacting with PostgreSQL databases using Python.
